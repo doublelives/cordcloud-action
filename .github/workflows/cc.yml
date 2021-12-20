@@ -2,8 +2,8 @@ name: CordCloud
 
 on:
   schedule:
-    - cron: "* * * * *"
-    # - cron: "0 0 * * *"
+    # - cron: "* * * * *" # per 5 minutes
+    - cron: "0 0 * * *" # per day
   workflow_dispatch:
 
 jobs:
