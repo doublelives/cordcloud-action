@@ -1,1 +1,1 @@
-每天跑一次cordcloud续命.
+每天跑一次cordcloud续命
